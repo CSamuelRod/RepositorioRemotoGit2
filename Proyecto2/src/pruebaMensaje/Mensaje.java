@@ -1,3 +1,4 @@
+package pruebaMensaje;
 
 public class Mensaje {
 
